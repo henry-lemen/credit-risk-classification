@@ -16,3 +16,5 @@ During the machine learning process, I split the data into testing and training 
 ## Summary
 
 The healthy loan model performs better, as determined by the precision and recall scores being higher than that of the high-risk loans. However, it is more important to predict results of hihg-risk loans, which have a lower precision and recall score. Overall, the model has a high accuracy score of .99, meaning that it performs well to make predictions. 
+
+Overall, I would recommend this model for company use. The precision and recall score are high for healthy loans, being 1.00 and 0.99 respectivelt. For High-risk loans, there is a precision score of 0.84 and a recall score of 0.94, both numbers are high as well. With an overall accuracy score of 0.99, this model will work well for the company.
